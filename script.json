@@ -7,7 +7,7 @@
     "NONE": "Whoops, looks like we started off on the wrong foot.",
     "GRAPHIC": "Fill In1",
     "WEB": "Fill In2",
-    "JOKE": "Fill In3"
+    "JOKE": "Fill In3",
     "BOT": "Yes, I am a bot! How'd you know?",
     "GO": "Let's do this! I'm here to provide any information that you may need about TDH before contacting a representative. You can respond using a keyword, like DESIGN, CONSULTING, or FUN which I will identify using all caps. Try one out now!",
     "DESIGN": "TDH offers a wide range of creative services, including GRAPHIC and WEB design work. Which are you interested in learning about? If neither, say NONE.",
