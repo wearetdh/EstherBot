@@ -1,6 +1,15 @@
 {
     "BOT": "Yes, I am a bot! How'd you know?",
-    "GO": "Let's do this! I'm here to provide any information that you may need about TDH before contacting a representative. You can respond using keywords, like DESIGN, CONSULTING, and FUN which I will always send in all caps. Try one out now!",
+    "GO": "Let's do this! I'm here to provide any information that you may need about TDH before contacting a representative. You can respond using a keyword, like DESIGN, CONSULTING, or FUN which I will identify using all caps. Try one out now!",
+    "DESIGN": "TDH offers a wide range of creative services, including GRAPHIC and WEB design work. Which are you interested in learning about? If neither, say NONE.",
+    "FUN": "You know, bots aren't all business. We can be FUN too! Do you want to hear a JOKE? Play a GAME? Perhaps you'd like to learn more about TDH?",
+    "CONSULTING": "Your business is your business. Your branding is our business. Join the FAMILY and let TDH handle the creative work while you focus on what matters most: BUSINESS. Do you have a project that needs a marketing boost? Reply YES or NO, or try another KEYWORD",
+    "NONE": "Whoops, looks like we started off on the wrong foot.",
+    "GRAPHIC": "Fill In1",
+    "WEB": "Fill In2",
+    "JOKE": "Fill In3"
+    "BOT": "Yes, I am a bot! How'd you know?",
+    "GO": "Let's do this! I'm here to provide any information that you may need about TDH before contacting a representative. You can respond using a keyword, like DESIGN, CONSULTING, or FUN which I will identify using all caps. Try one out now!",
     "DESIGN": "TDH offers a wide range of creative services, including GRAPHIC and WEB design work. Which are you interested in learning about? If neither, say NONE.",
     "FUN": "You know, bots aren't all business. We can be FUN too! Do you want to hear a JOKE? Play a GAME? Perhaps you'd like to learn more about TDH?",
     "CONSULTING": "Your business is your business. Your branding is our business. Join the FAMILY and let TDH handle the creative work while you focus on what matters most: BUSINESS. Do you have a project that needs a marketing boost? Reply YES or NO, or try another KEYWORD",
