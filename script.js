@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that – I can only respond to keywords (a word I've said in all caps).`).then(() => 'speak');
+                    return bot.say(`Whoops! I didn't catch that. Try using one of the KEYWORDS that I've identified in all caps. If you'd prefer to talk to a real person you can respond with @team at any time!`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
