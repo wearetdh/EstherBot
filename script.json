@@ -1,7 +1,8 @@
 {
     "BOT": "Yes, I am a bot! How'd you know?",
     "GO": "Fantastic! I'm here to provide any information that you may need about TDH before contacting a representative. You can respond using keywords, like DESIGN and CONSULTING, which I will always send in all caps. Try one out now!",
-    "DESIGN": "TDH offers a wide range of creative services, including GRAPHIC and WEB design work. Which are you interested in learning about? If neither, say NONE.""BOT": "Yes, I am a bot! How'd you know?",
+    "DESIGN": "TDH offers a wide range of creative services, including GRAPHIC and WEB design work. Which are you interested in learning about? If neither, say NONE."
+    "BOT": "Yes, I am a bot! How'd you know?",
     "CONSULTING": "Fill In",
     "DESIGN": "Fill In",
     "WORD": "Fill In1",
