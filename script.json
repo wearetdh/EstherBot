@@ -35,10 +35,10 @@
     "COMPLEX": "Line9",
     "HIRE": "Line11",
     "HAHA": "Why did Billy go out with a prune? Because he couldn't find a date!! Alright, that's all I've got for jokes- What do you say we get back down to BUSINESS?",
-    "HISTORY": "Fill In10",
-    "VISION": "Fill In11",
-    "FOUNDER": "Fill In12",
-    "FOUNDERS": "Fill In13",
+    "HISTORY": "Formerly known as the GPGI (Good People, Good Intentions) Group, TDH rebranded in January 2016 to put a stronger focus on CONSULTING work, as opposed to simply GRAPHIC and WEB design. The team has helped countless businesses from restaurants to retail, and everything in between. They even dove straight into politics in 2015 for a successful congressional race. They've done it all!",
+    "VISION": "TDH has big goals not only for the firm, but for each and every one of their clients. They always look at the bigger picture first, then scale the goals down into actionable milestones. Growth is iterative, and needs to be taken step-by-step. Let's build together!",
+    "FOUNDER": "Devon and John met in San Francisco while attending college at The Academy of Art University several years back. They bonded right away over passion for entrepreneurship and building awesome products like me! They currently own TDH as well as another mobile application STARTUP that launches late 2016.",
+    "FOUNDERS": "Devon and John met in San Francisco while attending college at The Academy of Art University several years back. They bonded right away over passion for entrepreneurship and building awesome products like me! They currently own TDH as well as another mobile application STARTUP that launches late 2016.",
     "CULTURE": "Fill In14",
     "NEW": "Wicked! Looks like you're taking the plunge into entrepreneurship. Right on! In order to learn a bit more about your new business, let's connect you to a member of the team. Say @team and I'll grab someone right away!",
     "UPDATE": "An updated look can help increase sales and trust in your product or business. Let's get you in touch with a member of the team to discuss your project in detail. Say @team to be connected!",
@@ -46,5 +46,12 @@
     "WOW": "Aww yeah! Let's get funky with it! TDH has experience creating plastic, metal, die-cut, and even suede cards. That's right - Don't step on my blue suede cards! Ready to chat about the card of your dreams? Say @team to meet a real live human from The Design House that can help you out.",
     "FACT": "The heart of a blue whale weighs as much as a car! 🐋 🚗 Want more? Say MORE. ",
     "MORE": "A group of ferrets is called a Business. Who knew!? Speaking of BUSINESS, let's get back down to it.",
-    "STICKER": "Fill In21"
+    "GPGI": "Fill In21"
+    "STARTUP": "Wicked! Looks like you're taking the plunge into entrepreneurship. Right on! In order to learn a bit more about your new business, let's connect you to a member of the team. Say @team and I'll grab someone right away!",
+    "UPDATE": "An updated look can help increase sales and trust in your product or business. Let's get you in touch with a member of the team to discuss your project in detail. Say @team to be connected!",
+    "TRADITIONAL": "Paper cards are always a classic! Plus they're not overly expensive so that's a win-win. We can create beautiful glossy or matte cards of any thickness for you from a number of manufacturers that we've worked with for years. Ready to get started? Simply say @team and I'll connect you to a TDH representative.",
+    "WOW": "Aww yeah! Let's get funky with it! TDH has experience creating plastic, metal, die-cut, and even suede cards. That's right - Don't step on my blue suede cards! Ready to chat about the card of your dreams? Say @team to meet a real live human from The Design House that can help you out.",
+    "FACT": "The heart of a blue whale weighs as much as a car! 🐋 🚗 Want more? Say MORE. ",
+    "MORE": "A group of ferrets is called a Business. Who knew!? Speaking of BUSINESS, let's get back down to it.",
+    "GPGI": "Fill In21"
 }
