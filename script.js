@@ -27,7 +27,7 @@ module.exports = new Script({
                 switch (upperText) {
                     case "END":
                         return bot.setProp("silent", true);
-                    case "START":
+                    case "REBOOT":
                         return bot.setProp("silent", false);
                     default:
                         return Promise.resolve();
